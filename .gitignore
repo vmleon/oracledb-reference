@@ -2,4 +2,9 @@
 env.json
 *.log
 
+node_modules/
+
 /data
+/samples/db-sample-schemas**
+
+.DS_Store
